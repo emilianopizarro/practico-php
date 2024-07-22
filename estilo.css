@@ -1,0 +1,53 @@
+.caja1{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(37, 171, 248);
+}
+
+
+
+h1{
+text-align: center;
+}
+
+
+.todositems{
+    border-radius: 20px;
+    border: 10px solid #daffff;
+    position: absolute;
+    left: 30%;
+    width: 40%;
+    height: 500px;
+    background-color: rgb(125, 96, 255);
+    
+}
+
+.relleno{
+    width: 85%;
+    height: 20px;
+}
+
+.comentario{
+    width: 80%;
+    height: 100px;
+}
+
+.comentarios{
+    border-radius: 20px;
+    border: 10px solid #daffff;
+    margin: auto;
+    width: 80%;
+    background-color: rgb(113, 133, 245);
+}
+
+
+
+.separacion{
+    margin: auto;
+    border: 5px solid rgb(24, 5, 77);
+}
+
+
+.centrado{
+    text-align: center;
+}
